@@ -30,7 +30,8 @@
    git push -u origin main
    ```
 
-   
+
+如果是从已经操作过的文件夹下向github上传，只需要确保文件夹下内容是新的，就可以直接从第三步开始可操作了。
 
 ### <font color = yellow> 新建仓库并上传文件：</font>
 
